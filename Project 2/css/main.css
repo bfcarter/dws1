@@ -19,7 +19,7 @@ ol {
 list-style-type: upper-roman;
 }
 
-a:link{
+#page list a:link{
 color: 214,28,123;
 text-decoration: none;
 }
