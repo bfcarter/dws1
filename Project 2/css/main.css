@@ -26,7 +26,7 @@ ol {
 list-style-type: upper-roman;
 }
 
-"#page list" a:link{
+#pagelist a:link{
 color: 214,28,123;
 text-decoration: none;
 }
@@ -41,7 +41,7 @@ a:active {
 color: 55,23,55;
 }
 
-"#Ball in and out of play" {
+#play {
 height: 300px;
 width: 400px;
 background-color 214,28,123;
