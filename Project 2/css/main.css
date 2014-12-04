@@ -18,3 +18,18 @@ line-height 1.4;
 ol {
 list-style-type: upper-roman;
 }
+
+a:link{
+color: 214,28,123;
+text-decoration: none;
+}
+a:visited {
+color:0,0,0;
+}
+a:hover {
+color:214,28,123;
+text-decoration: underline;
+}
+a:active {
+color: 55,23,55;
+}
