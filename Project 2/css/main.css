@@ -1,6 +1,5 @@
 body {
 	background-color #D7E5B1;
-	color:#ECEBE6;
 }
 
 h1 {
@@ -9,3 +8,10 @@ color #006353;
 }
 
 
+p {
+font-family: Arial, verdana,sans-serif;
+font-size 12px;
+
+ol {
+list-style-type:lower-roman;
+}
