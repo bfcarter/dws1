@@ -40,3 +40,9 @@ text-decoration: underline;
 a:active {
 color: 55,23,55;
 }
+
+#Ball in and out of play {
+height: 300px;
+width: 400px;
+background-color 214,28,123;
+}
