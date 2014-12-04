@@ -8,15 +8,18 @@ body {
 h1 {
 font-family: Arial, verdana,sans-serif;
 color #006353;
+margin: 10px auto;
 }
 h2 {
 font-family: Arial, verdana,sans-serif;
 color 214,28,123;
 
 p {
+width: 300px;
 font-family: Arial, verdana,sans-serif;
 font-size 12px;
 line-height 1.4;
+margin: 10px auto;
 }
 
 ol {
