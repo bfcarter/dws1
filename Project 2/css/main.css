@@ -1,13 +1,17 @@
 body {
 	background-color 11,8,12;
 	color rgba:(0,139,139,0.5);
+	border-radius: 8px;
+	box-shadow:inset 8px 8px 12px #000;
 }
 
 h1 {
 font-family: Arial, verdana,sans-serif;
 color #006353;
 }
-
+h2 {
+font-family: Arial, verdana,sans-serif;
+color 214,28,123;
 
 p {
 font-family: Arial, verdana,sans-serif;
