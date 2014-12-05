@@ -3,7 +3,6 @@
 body {
 
 	font-family:'Oswald', sans-serif;
-	color: #323015
 	border-radius: 8px;
 	box-shadow:inset 8px 8px 12px #BCD68F;
 	margin: 200px auto;
@@ -13,13 +12,11 @@ body {
 h1 {
 font-family:'Oswald', sans-serif;
 font-size 24px;
-color #006353;
 padding: 20px;
 text-shadow: 2px 2px #837D75;
 }
 h2 {
 font-family: Arial, verdana,sans-serif;
-color #751939;
 padding: 20px;
 }
 
@@ -51,17 +48,17 @@ border-style: solid;
     }
     
 a:link {
-color: 214,28,123;
+color: rgb 214,28,123;
 text-decoration: none;
 }
 a:visited {
 color:#D61C7B;
 }
 a:hover {
-color:214,28,123, 0.5;
+color:rgba 214,28,123, 0.5;
 text-decoration: underline;
 }
 a:active {
-color: 55,23,55;
+color: rgb 55,23,55;
 }
 
