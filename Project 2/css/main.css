@@ -5,7 +5,6 @@ body {
 	font-family:'Oswald', sans-serif;
 	border-radius: 8px;
 	background-color: #ecec9c;
-	color:#c9b833
 	box-shadow:inset 8px 8px 12px #bcd68f;
 	margin: 200px auto;
 }
@@ -53,18 +52,18 @@ border-style: solid;
     border-width: 5px;
 }
     
-ul a:link {
+#pagelist a:link {
 color: #837d75;
 text-decoration: none;
 }
-ul a:visited {
+#pagelist a:visited {
 color:#d61c7b;
 }
-ul a:hover {
+#pagelist a:hover {
 color:rgba 214,28,123, 0.5;
 text-decoration: underline;
 }
-ul a:active {
+#pagelist a:active {
 color: #751939;
 }
 
