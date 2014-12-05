@@ -35,6 +35,7 @@ list-style-type: upper-roman;
 
 h1,h2,h3, a {
 font-weight:normal;
+text-align: center;
 }
 
 div#in and out {
