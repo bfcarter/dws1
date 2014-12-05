@@ -2,6 +2,7 @@
 
 body {
 	width: 1200;
+	font-family:'Oswald', sans-serif;
 	border-radius: 8px;
 	box-shadow:inset 8px 8px 12px #000;
 	margin: 200px auto;
