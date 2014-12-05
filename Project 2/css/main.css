@@ -34,18 +34,18 @@ ol {
 list-style-type: upper-roman;
 }
 
-a:link #pagelist {
+a:link, a#pagelist {
 color: 214,28,123;
 text-decoration: none;
 }
-a:visited #pagelist {
+a:visited, a#pagelist {
 color:#D61C7B;
 }
-a:hover #pagelist {
+a:hover,a#pagelist {
 color:214,28,123;
 text-decoration: underline;
 }
-a:active #pagelist {
+a:active, a#pagelist {
 color: 55,23,55;
 }
 
