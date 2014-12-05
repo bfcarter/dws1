@@ -34,23 +34,28 @@ ol {
 list-style-type: upper-roman;
 }
 
-a:link, a#pagelist {
+h1,h2,h3, a {
+font-weight:normal;
+}
+
+div#play {
+border: 1px solid #751939
+background-color #D61C7B;
+padding: 10px;
+}
+
+a:link {
 color: 214,28,123;
 text-decoration: none;
 }
-a:visited, a#pagelist {
+a:visited {
 color:#D61C7B;
 }
-a:hover,a#pagelist {
+a:hover {
 color:214,28,123;
 text-decoration: underline;
 }
-a:active, a#pagelist {
+a:active {
 color: 55,23,55;
 }
 
-#play {
-height: 300px;
-width: 400px;
-background-color #D61C7B;
-}
