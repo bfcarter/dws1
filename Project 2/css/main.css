@@ -53,17 +53,17 @@ border-style: solid;
 }
     
 a:link {
-color: rgb 214,28,123;
+color: #837d75;
 text-decoration: none;
 }
 a:visited {
-color:#D61C7B;
+color:#d61c7b;
 }
 a:hover {
 color:rgba 214,28,123, 0.5;
 text-decoration: underline;
 }
 a:active {
-color: rgb 55,23,55;
+color: #751939;
 }
 
