@@ -1,4 +1,4 @@
-<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+
 
 body {
 	width: 1200;
@@ -34,18 +34,18 @@ ol {
 list-style-type: upper-roman;
 }
 
-a:link{
+a:link #pagelist {
 color: 214,28,123;
 text-decoration: none;
 }
-a:visited {
+a:visited #pagelist {
 color:#D61C7B;
 }
-a:hover {
+a:hover #pagelist {
 color:214,28,123;
 text-decoration: underline;
 }
-a:active {
+a:active #pagelist {
 color: 55,23,55;
 }
 
