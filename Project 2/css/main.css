@@ -1,7 +1,7 @@
 
 
 body {
-	width: 1200;
+
 	font-family:'Oswald', sans-serif;
 	border-radius: 8px;
 	box-shadow:inset 8px 8px 12px #000;
@@ -38,7 +38,7 @@ font-weight:normal;
 }
 
 div#in and out {
-border: 1px solid #751939;
+border: 5px solid #751939;
 background-color #D61C7B;
 padding: 10px;
 }
