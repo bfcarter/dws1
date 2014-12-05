@@ -10,6 +10,7 @@ body {
 h1 {
 font-family: Arial, verdana,sans-serif;
 color #006353;
+margin: 200px auto;
 padding: 20px;
 }
 h2 {
@@ -30,7 +31,7 @@ ol {
 list-style-type: upper-roman;
 }
 
-#pagelist a:link{
+a:link{
 color: 214,28,123;
 text-decoration: none;
 }
