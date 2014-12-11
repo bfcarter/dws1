@@ -17,7 +17,9 @@ color: #751939;
 strong {
 color:#d61C7b
 }
-
+p {
+background-image: url("../images/subliminal.gif");
+}
 /*headers*/
 h1 {
 font-family:'Oswald', sans-serif;
@@ -45,12 +47,12 @@ font-weight:normal;
 text-align: center;
 }
 /*borders added to paragraphs*/
-div#inout {
+#inout {
 border: 5px solid #751939;
 border-radius: 25px;
-background-color #d61c7b;
+background-color: #837d75;
 }
-div#cleats {
+#cleats {
 border-style: solid;
     border-width: 5px;
 }
@@ -63,7 +65,7 @@ text-decoration: none;
 color:#d61c7b;
 }
 #pagelist a:hover {
-color:rgba 214,28,123, 0.5;
+color:214,28,123, 0.5;
 text-decoration: underline;
 }
 #pagelist a:active {
