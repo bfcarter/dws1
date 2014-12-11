@@ -48,7 +48,7 @@ line-height 1.4;
 margin: 10px auto;
 }
 /*list to roman numerals*/
-ol {
+#soccerlist {
 list-style-type: upper-roman;
 }
 
