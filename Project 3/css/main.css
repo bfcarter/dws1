@@ -7,9 +7,10 @@ body {
 	background-color: #d6e6bc;
 	box-shadow:inset 8px 8px 12px #bcd68f;
 	margin: 200px auto;
+	width: 90%;
 }
 
-/****add color to the bolded and italic text***/
+/*add color to the bolded and italic text*/
 em {
 color: #751939;
 }
@@ -23,12 +24,12 @@ width:620px;
 margin:10px;
 }
 
-#photos{
+#sidebar{
 float:left;
 width:300px;
 margin:10px;
 
-/***headers***/
+/*headers*/
 h1 {
 font-family:'Oswald', sans-serif;
 padding: 20px;
@@ -38,7 +39,7 @@ h2 {
 font-family: Arial, verdana,sans-serif;
 padding: 20px;
 }
-/***paragraph***/
+/*paragraph*/
 p {
 width: 900px;
 font-family: Arial, verdana,sans-serif;
@@ -46,16 +47,22 @@ font-size 12px;
 line-height 1.4;
 margin: 10px auto;
 }
-/***list to roman numerals***/
+/*list to roman numerals*/
 ol {
 list-style-type: upper-roman;
+}
+
+#column1, #inout, #photos{
+width: 31.3%;
+float:left;
+margin:1%
 }
 
 h1,h2,h3, a {
 font-weight:normal;
 text-align: center;
 }
-/***borders added to paragraphs***/
+/*borders added to paragraphs*/
 div#inout {
 border: 5px solid #751939;
 border-radius: 25px;
@@ -65,7 +72,7 @@ div#cleats {
 border-style: solid;
     border-width: 5px;
 }
- /***highlight, change color and underline links***/   
+ /*highlight, change color and underline links*/   
 #pagelist a:link {
 color: #837d75;
 text-decoration: none;
