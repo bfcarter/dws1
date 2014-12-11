@@ -18,17 +18,6 @@ strong {
 color:#d61C7b
 }
 
-#main{
-float: left;
-width:620px;
-margin:10px;
-}
-
-#sidebar{
-float:left;
-width:300px;
-margin:10px;
-
 /*headers*/
 h1 {
 font-family:'Oswald', sans-serif;
@@ -43,7 +32,7 @@ padding: 20px;
 p {
 width: 900px;
 font-family: Arial, verdana,sans-serif;
-font-size 12px;
+font-size 1.000em;
 line-height 1.4;
 margin: 10px auto;
 }
