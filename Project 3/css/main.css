@@ -1,0 +1,71 @@
+
+
+body {
+/***All content***/
+	font-family:'Oswald', sans-serif;
+	border-radius: 8px;
+	background-color: #d6e6bc;
+	box-shadow:inset 8px 8px 12px #bcd68f;
+	margin: 200px auto;
+}
+
+/****add color to the bolded and italic text***/
+em {
+color: #751939;
+}
+strong {
+color:#d61C7b
+}
+/***headers***/
+h1 {
+font-family:'Oswald', sans-serif;
+padding: 20px;
+text-shadow: 2px 2px #837d75;
+}
+h2 {
+font-family: Arial, verdana,sans-serif;
+padding: 20px;
+}
+/***paragraph***/
+p {
+width: 900px;
+font-family: Arial, verdana,sans-serif;
+font-size 12px;
+line-height 1.4;
+margin: 10px auto;
+}
+/***list to roman numerals***/
+ol {
+list-style-type: upper-roman;
+}
+
+h1,h2,h3, a {
+font-weight:normal;
+text-align: center;
+}
+/***borders added to paragraphs***/
+div#inout {
+border: 5px solid #751939;
+border-radius: 25px;
+background-color #d61c7b;
+}
+div#cleats {
+border-style: solid;
+    border-width: 5px;
+}
+ /***highlight, change color and underline links***/   
+#pagelist a:link {
+color: #837d75;
+text-decoration: none;
+}
+#pagelist a:visited {
+color:#d61c7b;
+}
+#pagelist a:hover {
+color:rgba 214,28,123, 0.5;
+text-decoration: underline;
+}
+#pagelist a:active {
+color: #751939;
+}
+
