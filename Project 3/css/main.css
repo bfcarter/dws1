@@ -28,14 +28,7 @@ h2 {
 font-family: Arial, verdana,sans-serif;
 padding: 20px;
 }
-/*paragraph*/
-p {
-width: 900px;
-font-family: Arial, verdana,sans-serif;
-font-size 1.000em;
-line-height 1.4;
-margin: 10px auto;
-}
+
 /*list to roman numerals*/
 #soccerlist {
 list-style-type: upper-roman;
