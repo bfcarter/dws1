@@ -16,6 +16,18 @@ color: #751939;
 strong {
 color:#d61C7b
 }
+
+#main{
+float: left;
+width:620px;
+margin:10px;
+}
+
+#photos{
+float:left;
+width:300px;
+margin:10px;
+
 /***headers***/
 h1 {
 font-family:'Oswald', sans-serif;
