@@ -34,7 +34,7 @@ padding: 8px 0 0 60px;
 
 p {
 background-image: url("../images/straw-flowers.gif");
-	background-repeat: repeat-x;
+	background-repeat: repeat;
 }
 
 /*add color to the bolded and italic text*/
