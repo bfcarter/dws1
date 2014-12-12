@@ -18,14 +18,14 @@ background: linear-gradient(to bottom,  #b4e391 10%,#61c419 50%,#b4e391 100%); /
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b4e391', endColorstr='#b4e391',GradientType=0 ); /* IE6-9 */
 
 }
-#PhotoGallery{
+#photogallery{
 background-image: url("../images/pic.png");
 background-repeat: no-repeat;
 height: 48px;
 padding: 8px 0 0 60px;
 }
-#womenSoccer{
-background-image: url("../images/ball.jpg");
+#womensoccer{
+background-image: url("../images/player.png");
 background-repeat: no-repeat;
 height: 48px;
 padding: 8px 0 0 60px;
