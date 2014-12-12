@@ -16,7 +16,7 @@ background: -o-linear-gradient(top,  #b4e391 10%,#61c419 50%,#b4e391 100%); /* O
 background: -ms-linear-gradient(top,  #b4e391 10%,#61c419 50%,#b4e391 100%); /* IE10+ */
 background: linear-gradient(to bottom,  #b4e391 10%,#61c419 50%,#b4e391 100%); /* W3C */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b4e391', endColorstr='#b4e391',GradientType=0 ); /* IE6-9 */
-
+/*background icons*/
 }
 #photogallery{
 background-image: url("../images/pic.png");
@@ -30,6 +30,8 @@ background-repeat: no-repeat;
 height: 48px;
 padding: 8px 0 0 60px;
 }
+
+
 p {
 background-image: url("../images/straw-flowers.gif");
 	background-repeat: repeat;
@@ -61,13 +63,13 @@ padding: 20px;
 #soccerlist {
 list-style-type: upper-roman;
 }
-
+/*liquid layout*/
 #column1, #inout, #photoGallery{
 width: 31.3%;
 float:left;
 margin:1%
 }
-
+/*headers*/
 h1,h2,h3, a {
 font-weight:normal;
 text-align: center;
