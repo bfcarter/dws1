@@ -76,9 +76,12 @@ text-align:right;
 text-transform:capitalize;
 background-color: #837d75
 }
-td:hover{
+table a:hover{
 #f4f4f4;
 }
+
+/*form*/
+
 
 
 /*list to roman numerals*/
