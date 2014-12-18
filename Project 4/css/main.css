@@ -85,6 +85,55 @@ th td:hover{
 background-color: #d9d9d9;
 }
 
+/*form*/
+form{
+border-style: solid;
+width: 21.3%;
+height: 7%;
+padding: 1px;
+margin: 20px auto;
+}
+
+legend{
+font-style:italic;
+color: #445566
+}
+
+input {
+    border: 1px solid #006;
+    background: #ffc;
+    padding:2px;
+    width: 21.3%;
+}
+.title {
+float: left;
+width:21.3%;
+clear: left;
+}
+.input:hover {
+    border: 1px solid #f00;
+    background: #ff6;
+}
+#submit input{
+border:1px solid #063;
+background: #096;
+color: #fff;
+padding:5px;
+margin-top: 10px;
+border-radius: 5px;
+}
+#submit input:hover{
+background-color:#0c3;
+cursor:pointer;
+}
+
+br { clear: left; }
+
+input:hover, input:focus {
+    background-color: #fffeb6;
+    border: 1px solid #445566
+}
+
 
 
 /*list to roman numerals*/
