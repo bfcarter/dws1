@@ -90,20 +90,25 @@ alt="Photograph of a corner flag on a soccer field."/></a>
 <figcaption>Corner flag on a soccer field</figcaption>
 </figure>
 </div></div>
-<form>
-<h2>Sign up for our newsletter!</h2>
+<fieldset>
+<Legend>Sign up for our newsletter!</Legend>
+<label for="firstname">First name</label>
 First name: <br>
 <input type="text" name="firstname" placeholder= "First name"><br>
 <br>
 Last Name: <br>
 <label for="lastname">last name</label>
 <input type= "text" name="lastname" placeholder="Last name" required><br>
-<label for="male">Male</label>
+Gender:
+
 <input type="radio" name="sex"value="male">Male
+<label for="male">Male</label>
 <br>
-<label for="female">Female</label>
+
 <input type="radio" name="sex" value="female" checked> Female
-<label for="comments">Comments</label>
+<label for="female">Female</label>
+<br>
+
 <p>What do you think of this webpage?</p>
 <textarea name= "comments">
 Please enter your comments...
@@ -115,13 +120,14 @@ Please enter your comments...
 selected="selected"> tablet</option>
 <option value="mobile">mobile</option>
 <option value="pc">PC</option>
+<label for="comments">Comments</label>
 </select>
 <label for="email">Email</label>
 Email: <input type="text" name="email"><br>
 <br>
 <label for="submit">Submit</label>
 <input type="submit" value="Submit">
-</form>
+</fieldset>
 
 <footer>
 <div id="footer"><p>reference: <a href= "http://en.wikipedia.org/wiki/Association_football">Wikipedia</a></p>
