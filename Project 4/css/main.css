@@ -103,11 +103,11 @@ input {
     border: 1px solid #006;
     background: #ffc;
     padding:2px;
-    width: 100%;
+    width: 25%;
 }
 .title {
 float: left;
-width:100%;
+width:25%;
 clear: left;
 }
 .input:hover {
