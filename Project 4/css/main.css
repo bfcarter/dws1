@@ -83,7 +83,8 @@ table a:hover{
 /*form*/
 form{
 border-style: solid;
-width: 31.3%
+width: 31.3%;
+padding; 1px;
 }
 input {
     border: 1px solid #006;
