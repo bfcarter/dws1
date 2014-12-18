@@ -81,6 +81,9 @@ table a:hover{
 }
 
 /*form*/
+form{
+border-style: solid;
+}
 input {
     border: 1px solid #006;
     background: #ffc;
