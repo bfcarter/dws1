@@ -33,7 +33,7 @@ padding: 8px 0 0 60px;
 
 
 p {
-background-image: url("../images/straw-flowers.gif");
+background-image: url("../images/spongie.gif");
 	background-repeat: repeat;
 	overflow: auto;
 }
@@ -135,7 +135,7 @@ text-align: center;
 #inout {
 border: 5px solid #751939;
 border-radius: 25px;
-background-image: url("../images/khaki.gif");
+background-image: url("../images/banana.gif");
 }
 #cleats {
 border-style: solid;
