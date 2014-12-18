@@ -93,7 +93,6 @@ alt="Photograph of a corner flag on a soccer field."/></a>
 <Form>
 	<fieldset>
 		<Legend>Sign up for our newsletter!</Legend>
-<p>
 			<label for="name">First name:</label> <br>
 			<input type="text" name="firstname" id= "firstname" class="title" placeholder= "First name"/><br>
 			<br>
@@ -102,12 +101,12 @@ alt="Photograph of a corner flag on a soccer field."/></a>
 			<input type= "text" name="lastname" class="title" placeholder="Last name" required/><br>
 
 			<label for="gender">Gender:</label><br>
-
+<div>
 			<input id = "male" type="radio" name="gender"value="male"/>
 			<label for="male">Male</label>
-
+</div><div>
 			<input id= "female" type="radio" name="gender" value="female" checked/>
-			<label for="female">Female</label>
+			<label for="female">Female</label></div>
 			<br>
 	
 <p><label for="commentbox">What do you think of this webpage?</label></p>
@@ -115,13 +114,12 @@ alt="Photograph of a corner flag on a soccer field."/></a>
 Please enter your comments...
 </textarea>
 <br>
-
-<select name="device"
-<option valute= "tablet"
-selected="selected"> tablet</option>
+<p><label for="device"> What device are you using to view this page?</label></p>
+<select> 
+<option value="tablet" selected="selected"> tablet</option>
 <option value="mobile">mobile</option>
 <option value="pc">PC</option>
-
+<option value="other">other</option>
 </select>
 <br>
 <label for="email">Email:</label><br>
