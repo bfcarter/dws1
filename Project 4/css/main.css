@@ -71,7 +71,7 @@ border-top: 1px solid #000000;
 border-bottom: 1px solid #4e5756;
 }
 th{
-background-color: #837d75;
+background-color: #f1f1f1;
 color: #d61C7b;
 text-align: left;
 }
@@ -79,7 +79,7 @@ td{
 padding:15px;
 text-align:right;
 text-transform:capitalize;
-background-color: #837d75;
+background-color: #f1f1f1;
 }
 table:hover{
 background-color: #fffeb6;
