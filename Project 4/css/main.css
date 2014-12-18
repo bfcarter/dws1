@@ -62,12 +62,12 @@ padding: 15px;
 /*table*/
 table {
 width: 31.3%;
-background color: #d6dae;
+background-color: #b3b3b3;
 border-collapse: collapse;
 }
 td, th {
-border: 1px, solid, #751939;
-border-top: 1px solid #00000;
+border: 1px solid #751939;
+border-top: 1px solid #000000;
 border-bottom: 1px solid #4e5756;
 }
 th{
@@ -82,7 +82,7 @@ text-transform:capitalize;
 background-color: #837d75;
 }
 tr:hover{
-background color: #f4f4f4;
+background-color: #d9d9d9;
 }
 
 
