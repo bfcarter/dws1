@@ -1,0 +1,105 @@
+
+
+body {
+/***All content***/
+	font-family:'Oswald', sans-serif;
+	border-radius: 8px;
+	background-color: #d6e6bc;
+	box-shadow:inset 8px 8px 12px #bcd68f;
+	margin: 200px auto;
+	width: 90%;
+background: #b4e391; /* Old browsers */
+background: -moz-linear-gradient(top,  #b4e391 10%, #61c419 50%, #b4e391 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(10%,#b4e391), color-stop(50%,#61c419), color-stop(100%,#b4e391)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #b4e391 10%,#61c419 50%,#b4e391 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #b4e391 10%,#61c419 50%,#b4e391 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #b4e391 10%,#61c419 50%,#b4e391 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #b4e391 10%,#61c419 50%,#b4e391 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b4e391', endColorstr='#b4e391',GradientType=0 ); /* IE6-9 */
+/*background icons*/
+}
+#photogallery{
+background-image: url("../images/pic.png");
+background-repeat: no-repeat;
+height: 48px;
+padding: 8px 0 0 60px;
+}
+#womensoccer{
+background-image: url("../images/player.png");
+background-repeat: no-repeat;
+height: 48px;
+padding: 8px 0 0 60px;
+}
+
+
+p {
+background-image: url("../images/straw-flowers.gif");
+	background-repeat: repeat;
+	overflow: auto;
+}
+div {
+overflow: auto;
+}
+
+/*add color to the bolded and italic text*/
+em {
+color: #751939;
+}
+strong {
+color:#d61C7b
+}
+/*headers*/
+h1 {
+font-family:'Oswald', sans-serif;
+padding: 20px;
+text-shadow: 2px 2px #837d75;
+}
+h2 {
+font-family: Arial, verdana,sans-serif;
+padding: 20px;
+}
+
+/*list to roman numerals*/
+#soccerlist {
+list-style-type: upper-roman;
+}
+/*liquid layout*/
+#column1, #inout, #photoGallery{
+width: 31.3%;
+float:left;
+margin:1%
+}
+/*headers*/
+h1,h2,h3, a {
+font-weight:normal;
+text-align: center;
+}
+/*borders added to paragraphs*/
+#inout {
+border: 5px solid #751939;
+border-radius: 25px;
+background-image: url("../images/khaki.gif");
+}
+#cleats {
+border-style: solid;
+    border-width: 5px;
+}
+ /*highlight, change color and underline links*/   
+#pagelist a:link {
+color: #837d75;
+text-decoration: none;
+}
+#pagelist a:visited {
+color:#d61c7b;
+}
+#pagelist a:hover {
+color:214,28,123, 0.5;
+text-decoration: underline;
+}
+#pagelist a:active {
+color: #751939;
+}
+
+#footer {
+clear: left;
+}
