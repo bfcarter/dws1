@@ -124,13 +124,7 @@ border-radius: 5px;
 background-color:#0c3;
 cursor:pointer;
 }
-label {
-    display: block;
-    width: 150px;
-    float: left;
-    margin: 2px 4px 6px 4px;
-    text-align: left;
-}
+
 br { clear: left; }
 
 input:hover, input:focus {
