@@ -90,26 +90,27 @@ alt="Photograph of a corner flag on a soccer field."/></a>
 <figcaption>Corner flag on a soccer field</figcaption>
 </figure>
 </div></div>
-<fieldset>
-<Legend>Sign up for our newsletter!</Legend>
+<Form>
+	<fieldset>
+		<Legend>Sign up for our newsletter!</Legend>
+<p>
+			<label for="name">First name:</label> <br>
+			<input type="text" name="firstname" id= "firstname" class="title" placeholder= "First name"/><br>
+			<br>
+			<label for="lastname">Last Name:</label> <br>
 
-First name: <br>
-<input type="text" name="firstname" placeholder= "First name"><br>
-<br>
-Last Name: <br>
+			<input type= "text" name="lastname" class="title" placeholder="Last name" required/><br>
 
-<input type= "text" name="lastname" placeholder="Last name" required><br>
+			<label for="gender">Gender:</label><br>
 
-Gender:<br>
+			<input id = "male" type="radio" name="gender"value="male"/>
+			<label for="male">Male</label>
 
-<input id = "male" type="radio" name="gender"value="male"/>
-<label for="male">Male</label>
-
-<input id= "female" type="radio" name="gender" value="female" checked/>
-<label for="female">Female</label>
-<br>
-
-<p>What do you think of this webpage?</p>
+			<input id= "female" type="radio" name="gender" value="female" checked/>
+			<label for="female">Female</label>
+			<br>
+	
+<p><label for="commentbox">What do you think of this webpage?</label></p>
 <textarea name= "comments">
 Please enter your comments...
 </textarea>
@@ -123,11 +124,14 @@ selected="selected"> tablet</option>
 
 </select>
 <br>
-Email: <input type="text" name="email"><br>
+<label for="email">Email:</label><br>
+ <input type="text" name="email" id="email" class"title"/><br>
 <br>
-
-<input type="submit" value="Submit">
+<div id="submit">
+<input type="submit" value="Submit"/>
+</div>
 </fieldset>
+</form>
 
 <footer>
 <div id="footer"><p>reference: <a href= "http://en.wikipedia.org/wiki/Association_football">Wikipedia</a></p>
