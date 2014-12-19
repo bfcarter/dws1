@@ -60,6 +60,10 @@ margin: 25px;
 font: 1.5em #423b2e;
 margin-right: 44px;
 margin-left: 64px;
+overflow: auto;
+background-image: url("../library/page-flip.gif");
+background-repeat: no-repeat;
+background-position: bottom left;
 }
 #page flip > p {
 border-top: medium #423b2e;
@@ -74,6 +78,9 @@ float:left;
 margin:25px;
 font: 1.5em #423b2e;
 padding: 10px;
+background-image: url("../library/page-flip.gif");
+background-repeat: no-repeat;
+background-position: bottom left;
 }
 
 footer {
