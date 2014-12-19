@@ -44,12 +44,16 @@ margin-right:auto;
 margin-top: 210px;
 
 }
+h2 {
+margin-bottom: 10px;
+}
 
 #column1of2{
 width: 250px;
 float: left;
 margin: 25px;
 font: 1.5em #423b2e;
+border-top: medium #423b2e;
 }
 
 #column2of2{
@@ -57,10 +61,12 @@ width: 450px;
 float:left;
 margin:25px;
 font: 1.5em #423b2e;
+border-top: medium #423b2e;
 }
 
 footer {
 font: 0.917em #423b2e;
 clear:left;
+margin-bottom: 20px;
 }
 
