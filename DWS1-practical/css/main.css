@@ -17,7 +17,7 @@ h1 {
     height : 71px;
     margin : 0;
     padding : 0;
-    background-image : url("../images/logo.gif") no-repeat;
+    background: url("../images/logo.gif") no-repeat;
  
  li {
  display: inline;
@@ -25,8 +25,11 @@ h1 {
  }
 
 #banner {
-background-image: url("../images/banner.jpg") no-repeat;
+width:890px;
+height:200px;
+background: url("../images/banner.jpg") no-repeat;
 }
+
 #column1of2{
 width: 250px;
 float: left;
