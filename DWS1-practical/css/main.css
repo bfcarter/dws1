@@ -57,18 +57,18 @@ width: 250px;
 float: left;
 margin: 25px;
 font: 1.5em #423b2e;
-border-top: medium #423b2e;
 margin-right: 44px;
 margin-left: 64px;
 }
-
+p {
+border-top: medium #423b2e;
+}
 #column2of2{
 width: 450px;
 float:left;
 margin:25px;
 font: 1.5em #423b2e;
-border-top: medium #423b2e;
-border-style:solid;
+
 }
 
 footer {
