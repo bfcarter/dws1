@@ -20,18 +20,22 @@ header {
     background: url("../images/logo.gif") no-repeat;
  }
  h1.hidden{
- visibility:hidden;
+ display:none;
  }
  
  li {
  display: inline;
  margin-right: 10px;
+ color: #423b2e;
  }
 
 li.align-right{
 float:right;
 }
 
+#current {
+color: #bf3102;
+}
 #banner {
 width:890px;
 height:200px;
@@ -42,10 +46,16 @@ background: url("../images/banner.jpg") no-repeat;
 width: 250px;
 float: left;
 margin: 25px;
+font: 1.5em #423b2e;
 }
 
 #column2of2{
 width: 450px;
 float:left;
 margin:25px;
+font: 1.5em #423b2e;
+}
+
+footer {
+font: 0.917em #423b2e;
 }
