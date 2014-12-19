@@ -50,6 +50,9 @@ margin-bottom: 10px;
 img {
 float:left;
 }
+div {
+background:url("../images/main-content-bg.jpg");
+}
 
 #column1of2{
 width: 250px;
@@ -63,7 +66,7 @@ background-image: url("../library/page-flip.gif");
 background-repeat: no-repeat;
 background-position: bottom left;
 }
-#page flip > p {
+#page-flip > p {
 border-top: medium #423b2e;
 border-top-style: solid;
     border-right-style: none;
