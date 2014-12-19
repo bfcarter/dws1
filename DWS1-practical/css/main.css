@@ -51,7 +51,7 @@ margin-bottom: 10px;
 img {
 float:left;
 }
-.page-flip {
+section {
 width: 960px;
 background:url("../images/main-content-bg.jpg");
 }
