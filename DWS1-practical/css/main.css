@@ -26,9 +26,7 @@ header {
  li {
  display: inline;
  margin-right: 10px;
- margin-left: 900px;
- margin-top:auto;
- margin-bottom; auto;
+ float: left;
  }
 
 #banner {
