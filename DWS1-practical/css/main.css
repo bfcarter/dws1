@@ -8,7 +8,7 @@ body {
 	background: url("../images/header-bg.jpg") no-repeat top,url("../images/footer-bg.jpg") no-repeat bottom;
 	}
 #maincontent {
-background: url("../images/main-content-bg.jpg");
+background: url("../images/main-content-bg.jpg") repeat;
 }
 h1 {
     text-decoration:none;
