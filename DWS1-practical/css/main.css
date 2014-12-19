@@ -8,9 +8,9 @@ body {
 	background: url("../images/header-bg.jpg") no-repeat top,url("../images/footer-bg.jpg") no-repeat bottom;
 	}
 #main-content {
-background: url("../images/main-content-bg.jpg");
+border-image: url("../images/main-content-bg.jpg") stretch;
 }
-h1 {
+header {
     text-decoration:none;
     border:0;
     width : 317px;
@@ -24,7 +24,7 @@ h1 {
  display:none;
  }
  
-ul {
+li {
  display: inline;
  margin-right: 10px;
  color: #423b2e;
