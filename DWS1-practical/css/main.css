@@ -8,7 +8,7 @@ body {
 	background: url("../images/header-bg.jpg") no-repeat top,url("../images/footer-bg.jpg") no-repeat bottom;
 	}
 #main-content {
-border-image: url("../images/main-content-bg.jpg") 960px stretch;
+border-image: url("../images/main-content-bg.jpg") 960px;
 }
 header {
     text-decoration:none;
@@ -18,7 +18,7 @@ header {
     margin : 0px;
     padding : 0px;
     background: url("../images/logo.gif") no-repeat;
-    margin-right: auto
+    margin-right: auto;
    margin-top: 200px;
  }
  h1.hidden{
