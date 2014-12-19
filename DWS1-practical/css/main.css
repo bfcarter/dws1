@@ -8,6 +8,7 @@ body {
 	background: url("../images/header-bg.jpg") no-repeat top,url("../images/footer-bg.jpg") no-repeat bottom;
 	}
 #main-content {
+width:960px
 background: url("../images/main-content-bg.jpg");
 }
 header {
@@ -38,12 +39,12 @@ color: #bf3102;
 #banner {
 width:890px;
 height:200px;
-background: url("../images/banner.jpg") no-repeat ;
+background: url("../images/banner.jpg") no-repeat;
 margin-left: auto;
 margin-right:auto;
 margin-top: 210px;
-
 }
+
 h2 {
 margin-bottom: 10px;
 }
