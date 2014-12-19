@@ -19,6 +19,7 @@ header {
     padding : 0;
     background: url("../images/logo.gif") no-repeat;
     margin-top: 20px;
+    margin-left:auto;
  }
  h1.hidden{
  display:none;
