@@ -62,6 +62,7 @@ margin-left: 64px;
 }
 p {
 border-top: medium #423b2e;
+border-style: solid;
 }
 #column2of2{
 width: 450px;
