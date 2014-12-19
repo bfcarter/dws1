@@ -16,8 +16,9 @@ header {
     width : 317px;
     height : 71px;
     margin : 0px;
-    padding : 20px;
+    padding : 0px;
     background: url("../images/logo.gif") no-repeat;
+    margin-right: auto
    
  }
  h1.hidden{
