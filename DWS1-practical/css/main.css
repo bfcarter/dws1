@@ -5,7 +5,7 @@ body {
 	font: .75em/1.5em Helvetica, Arial, sans-serif;
 	color: #797267;
 	width: 960px;
-	background: url("../images/header-bg.jpg") no-repeat,url("../images/footer-bg.jpg") no-repeat bottom;
+	background: url("../images/header-bg.jpg") no-repeat top,url("../images/footer-bg.jpg") no-repeat left bottom;
 	}
 
 h1 {
