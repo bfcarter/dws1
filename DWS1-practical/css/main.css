@@ -62,10 +62,10 @@ margin-left: 64px;
 }
 #page flip > p {
 border-top: medium #423b2e;
-border-style: solid;
-border-left: none;
-border-right: none;
-border-bottom: none;
+border-top-style: solid;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
 }
 #column2of2{
 width: 450px;
