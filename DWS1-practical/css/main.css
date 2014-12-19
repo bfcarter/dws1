@@ -51,7 +51,7 @@ margin-bottom: 10px;
 img {
 float:left;
 }
-section {
+column1of2 column2of2 {
 width: 960px;
 background:url("../images/main-content-bg.jpg");
 }
