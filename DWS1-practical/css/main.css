@@ -31,14 +31,10 @@ background-image: url("../images/banner.jpg") no-repeat;
 width: 250px;
 float: left;
 margin: 25px;
-background-image: url("../images/page-flip.gif");
-background-repeat: no-repeat;
 }
 
 #column2of2{
 width: 450px;
 float:left;
 margin:25px;
-background-image: url("../images/page-flip.gif");
-background-repeat: no-repeat;
 }
