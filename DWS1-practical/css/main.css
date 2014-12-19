@@ -56,14 +56,12 @@ header {
  
  li {
  display: inline;
- margin-right: 850px;
+ margin-right: 10px;
  color: #423b2e;
  font-weight: bold;
+ float:right;
  }
 
-li.align-right{
-float:right;
-}
 
 #current {
 color: #bf3102;
