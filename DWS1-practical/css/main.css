@@ -48,6 +48,9 @@ margin-top: 210px;
 h2 {
 margin-bottom: 10px;
 }
+img {
+float:left;
+}
 
 #column1of2{
 width: 250px;
