@@ -10,7 +10,7 @@ body {
 #maincontent {
 background: url("../images/main-content-bg.jpg") repeat;
 }
-h1 {
+header {
     text-decoration:none;
     border:0;
     width : 317px;
@@ -18,6 +18,10 @@ h1 {
     margin : 0;
     padding : 0;
     background: url("../images/logo.gif") no-repeat;
+ }
+ h1.hidden{
+ visibility:hidden;
+ }
  
  li {
  display: inline;
