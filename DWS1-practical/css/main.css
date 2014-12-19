@@ -60,9 +60,12 @@ font: 1.5em #423b2e;
 margin-right: 44px;
 margin-left: 64px;
 }
-p {
+#page flip > p {
 border-top: medium #423b2e;
 border-style: solid;
+border-left: none;
+border-right: none;
+border-bottom: none;
 }
 #column2of2{
 width: 450px;
