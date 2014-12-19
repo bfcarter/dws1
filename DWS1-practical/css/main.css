@@ -38,7 +38,7 @@ color: #bf3102;
 #banner {
 width:890px;
 height:200px;
-background: url("../images/main-content-bg.jpg") url("../images/banner.jpg") no-repeat ;
+background: url("../images/banner.jpg") no-repeat ;
 margin-left: auto;
 margin-right:auto;
 margin-top: 210px;
@@ -71,7 +71,7 @@ float:left;
 margin:25px;
 font: 1.5em #423b2e;
 padding: 10px;
-background-image: url("../library/page-flip.gif");
+background-image: url("../images/main-content-bg.jpg")  url("../library/page-flip.gif");
 background-repeat: no-repeat;
 background-position: bottom left;
 }
