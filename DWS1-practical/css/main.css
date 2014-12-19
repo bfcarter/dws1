@@ -20,6 +20,7 @@ header {
     background: url("../images/logo.gif") no-repeat;
     margin-right: auto;
    margin-top: 100px;
+   float: left;
    
  }
  h1{
@@ -30,8 +31,6 @@ li {
  display: inline;
  color: #423b2e;
  font-weight: bold;
- text-align: right;
- margin-right:100px;
  }
 #current {
 color: #bf3102;
