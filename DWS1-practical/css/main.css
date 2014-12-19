@@ -26,8 +26,11 @@ header {
  li {
  display: inline;
  margin-right: 10px;
- float: Right;
  }
+
+li.align-right{
+float:right;
+}
 
 #banner {
 width:890px;
