@@ -27,6 +27,7 @@ header {
  display: inline;
  margin-right: 10px;
  color: #423b2e;
+ font-weight: bold;
  }
 
 li.align-right{
@@ -58,4 +59,5 @@ font: 1.5em #423b2e;
 
 footer {
 font: 0.917em #423b2e;
+clear:left;
 }
