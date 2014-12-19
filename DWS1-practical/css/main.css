@@ -21,7 +21,6 @@ header {
     background: url("../images/logo.gif") no-repeat;
     margin-right: auto;
    float: left;
-   margin-top: 50px;
    
  }
  h1{
@@ -59,7 +58,8 @@ background:url("../images/main-content-bg.jpg");
 width: 250px;
 float: left;
 margin: 25px;
-font: 1.5em #423b2e;
+font: 1.5em ;
+Font color: #423b2e;
 margin-right: 44px;
 margin-left: 64px;
 overflow: auto;
@@ -73,7 +73,8 @@ background-position: bottom left;
 width: 450px;
 float:left;
 margin:25px;
-font: 1.5em #423b2e;
+font: 1.5em;
+Font color:#423b2e;
 padding: 10px;
 background-image: url("../images/main-content-bg.jpg")  url("../library/page-flip.gif");
 background-repeat: no-repeat;
@@ -81,7 +82,8 @@ background-position: bottom left;
 }
 
 footer {
-font: 0.917em #423b2e;
+font: 0.917em;
+font color: #423b2e;
 clear:left;
 margin-bottom: 20px;
 margin-top: 20px;
